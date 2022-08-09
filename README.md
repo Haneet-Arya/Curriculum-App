@@ -18,6 +18,14 @@
 - Tabular form for the credits of every subject with defining the credits individually for theory,lab and project component
 - FAQ'S
 
+## Stacks Used
+- Kotlin
+- XML
+- Retrofit for http requests
+- Glide for loading Imageview
+- ViewModels
+- RoomDB
+
 ## Installation
 The application can be downloaded from Google Play Store.
 
